@@ -5,7 +5,7 @@ import SquadcastLogo from "./squadcast-logo"
 
 const DocsSidebarHeaderSection = () => (
   <div className="DocsSidebar--section DocsSidebar--header-section">
-    <a className="DocsSidebar--cloudflare-logo-link DocsSidebar--link" href="https://developers.cloudflare.com/">
+    <a className="DocsSidebar--cloudflare-logo-link DocsSidebar--link" href="https://www.squadcast.com/">
       <DocsNavLogoLockup
         logo={<SquadcastLogo/>}
       />
