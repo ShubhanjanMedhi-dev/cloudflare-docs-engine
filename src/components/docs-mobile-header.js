@@ -1,21 +1,14 @@
 import React from "react"
 
-import CloudflareLogo from "./cloudflare-logo"
 import DocsNavLogoLockup from "./docs-nav-logo-lockup"
+import SquadcastLogo from "./squadcast-logo"
 
 const DocsMobileHeader = () => (
   <div className="DocsMobileHeader">
-    <a className="DocsMobileHeader--cloudflare-logo-link Link Link-without-underline" href="https://developers.cloudflare.com/">
+    <a className="DocsMobileHeader--cloudflare-logo-link Link Link-without-underline" href="https://www.squadcast.com/">
       <DocsNavLogoLockup
         small={true}
-        logo={<CloudflareLogo/>}
-        text={(
-          <>
-            <span data-text="Cloudflare">Cloudflare</span>
-            <span>&nbsp;</span>
-            <span data-text="Docs">Docs</span>
-          </>
-        )}
+        logo={<SquadcastLogo/>}
       />
     </a>
   </div>
