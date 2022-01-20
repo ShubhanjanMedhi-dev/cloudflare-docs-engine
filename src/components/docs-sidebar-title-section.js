@@ -9,7 +9,7 @@ import DocsSidebarMoreDropdown from "./docs-sidebar-more-dropdown"
 
 const DocsSidebarTitleSection = () => (
   <div className="DocsSidebar--section DocsSidebar--docs-title-section">
-    <Link className="DocsSidebar--docs-title-logo-link DocsSidebar--link" to="/">
+    <Link className="DocsSidebar--docs-title-logo-link DocsSidebar--link" to="/" style={{paddingLeft: "8px", paddingRight: "8px"}}>
       <DocsNavLogoLockup
         logo={<DocsProductLogo/>}
         scaleTextClassName="DocsSidebar--docs-title-text-scaler"
