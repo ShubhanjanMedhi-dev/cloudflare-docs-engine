@@ -16,6 +16,7 @@ const AccessibleSVG = props => {
 }
 
 AccessibleSVG.defaultProps = {
+  fill: "currentColor",
   role: "img"
 }
 

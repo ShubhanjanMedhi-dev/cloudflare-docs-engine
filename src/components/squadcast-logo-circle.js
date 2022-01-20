@@ -2,7 +2,7 @@ import React from "react"
 import AccessibleSVG from "./accessible-svg"
 
 const SquadcastLogoCircle = () => (
-  <AccessibleSVG title="Squadcast Logo" viewBox="0 0 1393 254">
+  <AccessibleSVG title="Squadcast Logo" viewBox="0 0 48 48">
     <defs>
         <linearGradient x1="11.3497988%" y1="100%" x2="70.781804%" y2="4.97274114%" id="linearGradient-1">
             <stop stop-color="#1F92FF" offset="0%"></stop>
