@@ -2,7 +2,7 @@ import React from "react"
 
 const SquadcastLogoCircle = () => (
     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 48 48" style={{enableBackground: "new 0 0 261 261"}} xmlSpace="preserve">
+	 viewBox="0 0 500 500" style={{enableBackground: "new 0 0 261 261", marginTop: "12px", marginLeft: "20px"}} xmlSpace="preserve">
 
     <g id="Group-Copy">
 	
@@ -11,7 +11,7 @@ const SquadcastLogoCircle = () => (
 		<stop offset="0.202" style={{stopColor:"#1B7FF1"}}/>
 		<stop offset="1" style={{stopColor: "#000395"}}/>
 	    </linearGradient>
-	    <path id="Combined-Shape-Copy-6" fill="url(#Combined-Shape-Copy-6_1_)" fill-rule="evenodd" clip-rule="evenodd" d="M153.2,11.3c4.2,0.7,8.8,1.7,13.7,3c31.7,8.8,64.1,38.8,37.2,32.8
+	    <path id="Combined-Shape-Copy-6" fill="url(#Combined-Shape-Copy-6_1_) !important" fill-rule="evenodd" clip-rule="evenodd" d="M153.2,11.3c4.2,0.7,8.8,1.7,13.7,3c31.7,8.8,64.1,38.8,37.2,32.8
 		c-41.1-12.5-68,12.2-81.4,41.3c-0.4,0.8-0.7,1.5-1.1,2.3c-15.9,44.1-24,119.7-79.7,108.5C-14.5,181.3-0.8,98.9,19.1,68.1
 		c21.4-33.2,46.1-51.5,83.1-57.4C122.6,7.4,139.6,8.4,153.2,11.3L153.2,11.3z"/>
 	
@@ -20,7 +20,7 @@ const SquadcastLogoCircle = () => (
 		<stop offset="0.202" style={{stopColor: "#1B7FF1"}}/>
 		<stop offset="1" style={{stopColor: "#000395"}}/>
 	    </linearGradient>
-	    <path id="Combined-Shape-Copy-7" fill="url(#Combined-Shape-Copy-7_1_)" fill-rule="evenodd" clip-rule="evenodd" d="M107.8,249.7c-4.2-0.7-8.8-1.7-13.7-3C62.4,237.9,30,207.9,57,213.9
+	    <path id="Combined-Shape-Copy-7" fill="url(#Combined-Shape-Copy-7_1_) !important" fill-rule="evenodd" clip-rule="evenodd" d="M107.8,249.7c-4.2-0.7-8.8-1.7-13.7-3C62.4,237.9,30,207.9,57,213.9
 		c41.1,12.5,68-12.2,81.4-41.3c0.4-0.8,0.7-1.5,1.1-2.3c15.9-44.1,24-119.7,79.7-108.5c56.4,17.9,42.7,100.3,22.8,131.1
 		c-21.4,33.2-46.1,51.5-83.1,57.4C138.4,253.6,121.4,252.6,107.8,249.7L107.8,249.7z"/>
     </g>
