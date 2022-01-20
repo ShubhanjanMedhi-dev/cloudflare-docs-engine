@@ -21,7 +21,8 @@
 
 /* When svg paths have gradiants this will override to just orange */ 
 .DocsNavLogoLockup--logo path {
-  fill: var(--orange);
+  /* fill: var(--orange); */
+  fill: #0e39bd;
 }
 
 .DocsNavLogoLockup--text {
