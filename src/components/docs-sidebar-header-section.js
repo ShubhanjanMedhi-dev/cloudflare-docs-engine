@@ -1,13 +1,18 @@
 import React from "react"
 
 import DocsNavLogoLockup from "./docs-nav-logo-lockup"
-import SquadcastLogo from "./squadcast-logo"
+import SquadcastLogoCircle from "./squadcast-logo"
 
 const DocsSidebarHeaderSection = () => (
   <div className="DocsSidebar--section DocsSidebar--header-section">
     <a className="DocsSidebar--cloudflare-logo-link DocsSidebar--link" href="https://www.squadcast.com/">
       <DocsNavLogoLockup
-        logo={<SquadcastLogo/>}
+        logo={<SquadcastLogoCircle/>}
+        text={(
+          <>
+            <span data-text="Squadcast">Squadcast</span>
+          </>
+        )}
       />
     </a>
   </div>
