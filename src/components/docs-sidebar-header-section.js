@@ -1,7 +1,7 @@
 import React from "react"
 
 import DocsNavLogoLockup from "./docs-nav-logo-lockup"
-import SquadcastLogoCircle from "./squadcast-logo"
+import SquadcastLogoCircle from "./squadcast-logo-circle"
 
 const DocsSidebarHeaderSection = () => (
   <div className="DocsSidebar--section DocsSidebar--header-section">
